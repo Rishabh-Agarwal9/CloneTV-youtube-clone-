@@ -34,9 +34,10 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://img.youtube.com/vi/FZUcpVmEHuk/maxresdefault.jpg';
+
 export const demoChannelUrl = '/channel/UCU2PacFf99vhb3hNiYDmxww';
 export const demoVideoUrl = '/video/FZUcpVmEHuk';
+export const demoThumbnailUrl = 'https://img.youtube.com/vi/FZUcpVmEHuk/maxresdefault.jpg';
 export const demoChannelTitle = 'Chelsea FC';
 export const demoVideoTitle = 'still a piece of garbage';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
