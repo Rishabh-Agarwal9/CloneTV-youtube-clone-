@@ -8,5 +8,4 @@ const Loader = () =>  (
     </Stack>
   </Box>
 );
-
 export default Loader;
